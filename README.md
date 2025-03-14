@@ -99,7 +99,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=c8a2c8&size=35&center=true&v
 
 <p>
  <p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=arcane128&show_icons=true&locale=en&layout=compact&theme=midnight-purple"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=arcane128&show_icons=true&locale=en&layout=compact&theme=material-palenight"
         alt="arcane128am" /></p>
 
 <p><img align="center"
