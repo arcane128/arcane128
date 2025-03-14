@@ -93,7 +93,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=c8a2c8&size=35&center=true&v
 </p>
 <br>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/yael-oua" alt="arcane128's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/yael-oua" alt="yael-oua's 42 stats" /></a>
 <img width="25%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/arcane128/arcane128/main/hello/klad_753.gif" />
 
 
