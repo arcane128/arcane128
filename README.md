@@ -29,18 +29,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=c8a2c8&size=35&center=true&v
     - 🍀 Are you an encryption algorithm? Because I can’t decode your beauty
 
 
-<!--     nexjs -->
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40" />
-    </a>
-    <!-- mysql -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"   alt="mysql" width="40" height="40" /> 
-    </a> 
-    <!-- mongose -->
-    <a href="https://www.mongodbcom/" target="_blank" rel="noreferrer"> 
-        <img   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"   alt="mongodb" width="40" height="40" /> 
-    </a> 
+
 </p>
 <br>
 
