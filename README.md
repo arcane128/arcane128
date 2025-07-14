@@ -17,7 +17,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=c8a2c8&size=35&center=true&v
 
 - 👯 I’m looking to collaborate on *open-source projects and programming challenges.*
 
-- 📫 How to reach me? *you can use [Email](arcane128@gmail.com).*
+- 📫 How to reach me? *you can use [Email](yassmine.elouali@gmail.com).*
 
 - ⚡ Fun fact *It’s all 0’s and 1’s*
 - Are you an encryption algorithm? Because I can’t decode your beauty
