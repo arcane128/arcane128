@@ -4,7 +4,7 @@
 
 
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=c8a2c8&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+yassmine+ElOuali;I'm+from+Morocco;Be+Welcome!+ツ)
+SVG](https://readme-typing-svg.herokuapp.com/?color=c8a2c8&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+yassmine+El+Ouali;I'm+from+Morocco;Be+Welcome!+:D)
 
 
 
