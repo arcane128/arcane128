@@ -46,9 +46,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=c8a2c8&size=35&center=true&v
         src="https://github-readme-stats.vercel.app/api?username=arcane128&show_icons=true&locale=en&theme=material-palenight"
         alt="arcane128am" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arcane128am&theme=material-palenight"
-        alt="arcane128am" /></p>   
-</p>
+
 
 
 <!--### 🚀 GitHub Contribution Graph: -->
