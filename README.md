@@ -46,13 +46,10 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=c8a2c8&size=35&center=true&v
         src="https://github-readme-stats.vercel.app/api?username=arcane128&show_icons=true&locale=en&theme=material-palenight"
         alt="arcane128am" /></p>
 
-
-
-
 <!--### 🚀 GitHub Contribution Graph: -->
 <p align="center">
-  <a src="![Yassmine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arcane128&theme=dracula)](https://github.com/arcane128/github-readme-activity-graph)"
-
+  <a href="https://github.com/arcane128;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcane128&theme=Default" alt="GitHub Contribution Graph">
   </a>
 </p>
 
