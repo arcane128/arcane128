@@ -36,26 +36,6 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=c8a2c8&size=35&center=true&v
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/yael-oua" alt="yael-oua's 42 stats" /></a>
 <img width="25%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/arcane128/arcane128/main/hello/klad_753.gif" />
 
-
-<p>
- <p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=arcane128&show_icons=true&locale=en&layout=compact&theme=material-palenight"
-        alt="arcane128am" /></p>
-
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=arcane128&show_icons=true&locale=en&theme=material-palenight"
-        alt="arcane128am" /></p>
-
-<!--### 🚀 GitHub Contribution Graph: -->
-<p align="center">
-  <a href="https://github.com/arcane128;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcane128&theme=Default" alt="GitHub Contribution Graph">
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcane128&theme=default" alt="GitHub Contribution Graph">
-</p>
-[![Yassmine's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arcane128&theme=dracula)](https://github.com/arcane128)
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c8a2c8&height=120&section=footer" />
 </a>
