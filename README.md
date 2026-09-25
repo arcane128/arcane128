@@ -51,8 +51,8 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=c8a2c8&size=35&center=true&v
 
 <!--### 🚀 GitHub Contribution Graph: -->
 <p align="center">
-  <a href="https://github.com/arcane128;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcane128&theme=Default" alt="GitHub Contribution Graph">
+  <a href="![Yassmine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arcane128&theme=dracula)](https://github.com/arcane128/github-readme-activity-graph)"
+
   </a>
 </p>
 
